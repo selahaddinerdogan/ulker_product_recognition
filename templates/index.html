@@ -1,0 +1,43 @@
+{% load render_bundle from webpack_loader %}
+<!DOCTYPE>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="shortcut icon" href="https://st.depositphotos.com/1034502/4086/v/950/depositphotos_40869197-stock-illustration-symbol-mill.jpg">
+    <title>MARKET</title>
+    <!--import react css start-->
+      <!--<link rel="icon" type="image/png" href="/assets/bundles/layout/images/logo/logo.png">-->
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/spectre.css@0.5.7/dist/spectre-icons.min.css">
+    <!--<link rel="stylesheet" type="text/css" href="/dist/css/spectre/spectre.min.css" />-->
+    <!--<link rel="stylesheet" type="text/css" href="/dist/css/spectre/spectre-icons.min.css"/>-->
+    <!--<link rel="stylesheet" type="text/css" href="/dist/css/custom/git.css"/>-->
+
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://ajax.aspnetcdn.com/ajax/jquery.dataTables/1.9.0/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/primereact@2.0.0-beta.9/resources/themes/nova-light/theme.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/primereact@2.0.0-beta.9/resources/primereact.min.css" />
+
+  </head>
+  <body>
+     <div id="root">
+        <div class="splash-screen">
+            <div class="splash-container">
+                <div class="splash-double-bounce1"></div>
+                 {% render_bundle 'main' %}
+                <div class="splash-double-bounce2"></div>
+            </div>
+        </div>
+    </div>
+      {% render_bundle 'main' %}
+    <!--<link href="https://gist.github.com/avatsaev/c41529ad01e608de9856b0ea25137f73#file-bundle-min-js"/>-->
+      <!--<script type="text/javascript" src="/dist/js/bundle.min.js"></script>-->
+  <!--<script type="text/javascript" src="https://gist.github.com/avatsaev/c41529ad01e608de9856b0ea25137f73.js"></script>-->
+  </body>
+
+
+</html>

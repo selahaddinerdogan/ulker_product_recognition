@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="958ca471-f88b-434c-aa3c-cb72b5a58278" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/management/controller/TensorflowRequest.py" beforeDir="false" afterPath="$PROJECT_DIR$/management/controller/TensorflowRequest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/controller/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/controller/images/15621321551188958.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/controller/images/15621323853692477.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/controller/images/15621324010831194.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/controller/images/15621326072421546.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/management/controller/images/no-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack-stats.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/webpack-stats.dev.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1OirqFXHGj7evNIeFG92U34WoqX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/management/controller/images" />
+      <recent name="$PROJECT_DIR$/management/controller/images/products" />
+      <recent name="$PROJECT_DIR$/frontend/config" />
+      <recent name="$PROJECT_DIR$/management/controller" />
+      <recent name="$PROJECT_DIR$/frontend/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="market" type="Python.DjangoServer" factoryName="Django server">
+      <module name="market" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="958ca471-f88b-434c-aa3c-cb72b5a58278" name="Default Changelist" comment="" />
+      <created>1561624913058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561624913058</updated>
+      <workItem from="1561624914195" duration="321000" />
+      <workItem from="1561625243963" duration="24972000" />
+      <workItem from="1561712781661" duration="11561000" />
+      <workItem from="1561730043429" duration="9535000" />
+      <workItem from="1561802430966" duration="10098000" />
+      <workItem from="1561817161497" duration="1401000" />
+      <workItem from="1561819330346" duration="314000" />
+      <workItem from="1561957768856" duration="11266000" />
+      <workItem from="1562044621919" duration="17000000" />
+      <workItem from="1562139654887" duration="606000" />
+      <workItem from="1562151067171" duration="2571000" />
+      <workItem from="1562220271533" duration="64000" />
+      <workItem from="1563273227001" duration="951000" />
+      <workItem from="1563278902597" duration="2624000" />
+      <workItem from="1564471473412" duration="890000" />
+      <workItem from="1564475701851" duration="1808000" />
+      <workItem from="1564737069064" duration="2047000" />
+      <workItem from="1566984137483" duration="299000" />
+      <workItem from="1569395580894" duration="758000" />
+      <workItem from="1574158782064" duration="944000" />
+      <workItem from="1574231820016" duration="1572000" />
+    </task>
+    <task id="LOCAL-00001" summary="arayüz ve ürün isim güncellemeleri">
+      <created>1562052055887</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562052055887</updated>
+    </task>
+    <task id="LOCAL-00002" summary="resim seçerek sorma">
+      <created>1562132679009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562132679009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="resimde görünen ürün isimlerini kısaltma">
+      <created>1563283007221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563283007221</updated>
+    </task>
+    <task id="LOCAL-00004" summary="uptated github version">
+      <created>1574233086144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574233086144</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="arayüz ve ürün isim güncellemeleri" />
+    <MESSAGE value="resim seçerek sorma" />
+    <MESSAGE value="resimde görünen ürün isimlerini kısaltma" />
+    <MESSAGE value="uptated github version" />
+    <option name="LAST_COMMIT_MESSAGE" value="uptated github version" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/frontend/src/App.jsx</url>
+          <line>53</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
