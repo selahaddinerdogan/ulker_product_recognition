@@ -48,7 +48,7 @@
     "react": "^16.8.6",
     "react-bootstrap": "^0.32.4",
     "react-csv": "^1.1.1",
-    "react-dev-utils": "^4.2.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "react-form-validator-core": "^0.5.1",
     "react-html5-camera-photo": "^1.4.3",
